@@ -73,9 +73,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Vincent Murphy
+- **Author Contact**: https://www.linkedin.com/in/vincentmurphy226/
+- **Date**: January 24, 2024
 
 ## Validated By:
 - **Reviewer Name**: 
